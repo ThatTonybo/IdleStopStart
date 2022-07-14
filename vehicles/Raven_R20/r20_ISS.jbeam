@@ -1,0 +1,16 @@
+{
+    "R20_ISS": {
+        "information": {
+            "authors": "ThatTonybo",
+            "name": "Idle Stop-Start System",
+            "value": 1000,
+        },
+
+        "slotType": "R20_mod",
+
+        "controller": [
+            ["fileName"],
+            ["idleStopStart"],
+        ],
+    },
+}

@@ -1,0 +1,16 @@
+{
+    "fullsuv_ISS": {
+        "information": {
+            "authors": "ThatTonybo",
+            "name": "Idle Stop-Start System",
+            "value": 1000,
+        },
+
+        "slotType": "fullsuv_mod",
+
+        "controller": [
+            ["fileName"],
+            ["idleStopStart"],
+        ],
+    },
+}

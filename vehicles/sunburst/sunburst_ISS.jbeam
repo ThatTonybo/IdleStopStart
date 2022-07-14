@@ -1,0 +1,16 @@
+{
+    "sunburst_ISS": {
+        "information": {
+            "authors": "ThatTonybo",
+            "name": "Idle Stop-Start System",
+            "value": 1000,
+        },
+
+        "slotType": "sunburst_mod",
+
+        "controller": [
+            ["fileName"],
+            ["idleStopStart"],
+        ],
+    },
+}

@@ -1,0 +1,16 @@
+{
+    "etkc_ISS": {
+        "information": {
+            "authors": "ThatTonybo",
+            "name": "Idle Stop-Start System",
+            "value": 1000,
+        },
+
+        "slotType": "etkc_mod",
+
+        "controller": [
+            ["fileName"],
+            ["idleStopStart"],
+        ],
+    },
+}
