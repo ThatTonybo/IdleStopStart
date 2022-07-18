@@ -11,6 +11,15 @@
         "controller": [
             ["fileName"],
             ["idleStopStart"],
+        ],,
+
+        "variables": [
+            ["name", "type", "unit", "category", "default", "min", "max", "title", "description", "stepDis"],
+            ["$ISS_requiredIdleTime", "range", "secs", "Idle Stop-Start",  1.5, 0, 5, "Required Idle Time", "How long the vehicle should idle before the engine is shut off. Set to 0 for instant.", 1]
         ],
+
+        "idleStopStart": {
+            ISS_requiredIdleTime = "$ISS_requiredIdleTime"
+        },
     },
 }

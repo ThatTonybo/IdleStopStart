@@ -1,12 +1,12 @@
 {
-    "sunburst_ISS": {
+    "t4runner_ISS": {
         "information": {
             "authors": "ThatTonybo",
             "name": "Idle Stop-Start System",
             "value": 1000,
         },
 
-        "slotType": "sunburst_mod",
+        "slotType": "t4runner_mod",
 
         "controller": [
             ["fileName"],
